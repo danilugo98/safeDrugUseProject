@@ -1,0 +1,78 @@
+#p1h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#page1 {
+    background-color: #c8efef;
+}
+
+
+#names {
+    color: #a0a0a0;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#date {
+    color: #a0a0a0;
+    text-align: center;
+}
+
+#cohort {
+    color: #a0a0a0;
+   text-align: center;
+}
+
+a {
+    color: #DD7373;
+}
+
+#h31p3 {
+    text-align: center;
+}
+
+#h32p3 {
+    text-align: center;
+}
+
+#h33p3 {
+    text-align: center;
+}
+
+#sec1p3 {
+    padding: 20px;
+    background-color: #ecb0b0;
+}
+
+#sec2p3 {
+    padding: 20px;
+    background-color: #a0e8e8;
+}
+
+#sec3p3 {
+    padding: 20px;
+}
+
+#p1img1 {
+    margin-left: 400px;
+    margin-right: 3500px;
+    padding-top: 20px;
+}
+
+#p1p1 {
+    padding: 30px;
+}
+
+#p2p1 {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#p3img {
+    padding-bottom: 20px;
+}
